@@ -1,2 +1,3 @@
 cctv1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 cctv5,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210102.m3u8
+cctv13,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
