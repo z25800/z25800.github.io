@@ -1,2 +1,0 @@
-cctv14,http://video.qd.sdu.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/index.m3u8
-https://github.com/z25800/z25800.github.io/blob/main/xxx.txt
