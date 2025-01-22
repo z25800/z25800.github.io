@@ -1,8 +1,9 @@
 广东频道,#genre#
-cctv13,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-newssd/1500.m3u8?innersid=2025
-cctv1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=2025
-大湾区,http://116.28.98.129:8888/udp/239.77.0.215:5146
-珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
-珠江2,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+大湾区卫视,http://116.28.99.152:8888/udp/239.77.0.215:5146
+cctv13,http://cc2022.ifengli.com:2000/live/cctv-newssd/1500.m3u8?innersid=007
+cctv1,http://cc2022.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=007
+珠江2,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/JYKTMPP360.m3u8
-cctv14,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=2025
+金鹰卡通,,http://113.205.49.165:8089/newlive/live/hls/51/live.m3u8
